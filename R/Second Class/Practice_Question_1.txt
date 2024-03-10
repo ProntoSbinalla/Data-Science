@@ -1,0 +1,26 @@
+1.	What is the difference between a numeric and an integer data type in R?
+Ans: Numeric Data is numbers that include decimals. Integer is only Whole Numbers
+
+2.	How does the character data type differ from the factor data type in R?
+Ans: 
+
+3.	Explain the purpose of the logical data type in R.
+Ans: It can be used to check the
+
+4.	What is the significance of the 'NA' value in R and which data types can it be applied to?
+5.	How does the date data type differ from the POSIXct data type in R?
+6.	Write an if statement to check if a variable 'x' is greater than 10 in R.
+7.	How can you use the 'else' statement in conjunction with an 'if' statement in R?
+8.	Explain the purpose of the 'else if' statement in R.
+9.	Write an if statement to determine if a character variable 'y' is equal to the string "Hello" in R.
+10.	How can you nest multiple if statements to check for multiple conditions in R?
+11.	Write a while loop to print numbers from 1 to 5 in R.
+12.	What is the key difference between a 'while' loop and a 'for' loop in R?
+13.	Create a for loop to iterate over a vector 'vec' and print each element in R.
+14.	How can you use the 'break' statement in a loop in R?
+15.	Write a for loop to calculate the sum of even numbers from 1 to 10 in R.
+16.	Write a while loop that prints the square of numbers from 1 to 3 in R.
+17.	How can you use the 'next' statement in a while loop in R?
+18.	Create a while loop to find the factorial of a given number 'n' in R.
+19.	Write a nested for loop to print a multiplication table for numbers 1 to 3 in R.
+20.	How can you use the 'next' statement in a for loop in R?
