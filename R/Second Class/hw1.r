@@ -65,3 +65,8 @@ message(product)
 
 # Q19: Write a nested for loop to print a multiplication table for numbers 1 to 3 in R.
 
+for(a in 1:3) {
+    for(b in 1:10) {
+        message(a, " x ", b, " = ", a * b)
+    }
+}
