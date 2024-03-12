@@ -1,0 +1,28 @@
+1.	Count the Number of List Elements in R
+2.	Create a list with random values in R
+3.	How to add Key Value Pair to List in R?
+4.	Access Index Names of List Using apply Function in R
+5.	Convert matrix to list in R
+6.	Convert the list to a data frame with specific column names in R
+7.	Convert list to array in R
+8.	for loop to print the elements of a vector?
+9.	The sum of parts in a vector using a for loop?
+10.	Finding the maximum value in a vector using a for loop?
+11.	Reversing a vector using a for loop?
+12.	Counting the number of even and odd elements in a vector using a for loop?
+13.	while loop to print the elements of a vector?
+14.	while loop to find the first occurrence of a specific element in a vector?
+15.	while loop to calculate the factorial of a number?
+16.	while loop to calculate the square of numbers?
+17.	while loop to reverse a string?
+18.	Nested for loop to print multiplication tables up to a certain number.
+19.	Nested for loop to create a 2D matrix.
+20.	Nested for loop to print a pattern.
+21.	Nested for loop to calculate the transpose of a matrix.
+22.	Check if a number is positive or negative using if-else a statement.
+23.	if-else to find the maximum of two numbers.
+24.	Create a programme to assign grades based on a student’s score using if-else .
+25.	Create a programme to categorize numbers into odd or even.
+26.	if-else to check if a number is divisible by another number.
+27.	if-else to categorize ages into different groups.
+28.	if-else to check if a character string contains a specific substring.
