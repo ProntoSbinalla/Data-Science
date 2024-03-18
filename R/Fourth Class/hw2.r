@@ -31,6 +31,14 @@ for(a in 1:count) {
 
 print(random_values)
 
+# Q5: Convert Matrix to List
+
+mat <- matrix(1:12, nrow = 4)
+
+mat_list <- as.list(mat)
+
+print(mat_list)
+
 # Q8: For loop to print the elements of a vector
 
 message("Q8: ")
