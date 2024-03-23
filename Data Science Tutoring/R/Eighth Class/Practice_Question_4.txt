@@ -1,0 +1,42 @@
+    1.	Write a function that divides two numbers, but handle the case where the denominator is zero.
+    2.	Create a function that checks if a given vector is numeric, and if not, raise a custom error message.
+    3.	Use tryCatch to handle the error in reading a non-existent file using read.csv().
+    4.	Write a function that takes a numeric vector and raises a warning if any element is negative.
+5.	Create a function that opens a connection to a file, performs some operations, and ensures the connection is closed using on.exit().
+    6.	Write a loop that iterates over a large range of numbers, but provide a way to interrupt execution using tryCatch.
+7.	Create a function that calls another function, but if an error occurs, print the traceback using traceback().
+8.	Use tryCatch to handle both errors and warnings that may arise during the execution of a function.
+9.	Write a function that performs a complex calculation, but handle different types of errors that may occur during the calculation.
+10.	Write a function that performs several operations, each wrapped in a tryCatch block to handle errors separately.
+    11.	Create a function that takes a filename as input and tries to read it, but if an error occurs, print the error message using conditionMessage()
+12.	Write a function that tries to connect to a database, but handle specific error conditions such as authentication failure or database not found.
+13.	Develop a function that attempts to load a package and uses it if available, but falls back to an alternative method if the package is not installed.
+14.	Write a function that calls another function multiple times, but if an error occurs in any iteration, continue with the next iteration without stopping the loop.
+    15.	Create a function that expects a data frame as input, but handle the case where a different data type is provided.
+16.	Write a function that opens a database connection, performs some operations, and ensures that the connection is closed even if an error occurs.
+    17.	Develop a function that checks the memory usage of an object and raises an error if it exceeds a certain threshold.
+18.	Write a function that logs errors to a file using tryCatch and sink().
+19.	Create a function that downloads a file from a URL, but handle the case where the connection is interrupted or times out.
+20.	How to Add and Subtract Days to and from Date in R?
+21.	How to subtract time in R?
+22.	How to Extract time from the timestamp in R?
+23.	How to calculate the number of days between two dates in R?
+24.	How to calculate Years between Dates in R?
+25.	How to convert a factor into a date format?
+26.	How to count values per level in a factor in R
+27.	Find the levels of a factor of a given vector in R
+28.	How to change the order of levels of a factor in R?
+29.	How to convert factor levels to list in R?
+30.	Concatenate two given factors in a single factor in R
+31.	Get All Factor Levels of the DataFrame Column in R
+32.	Reading the CSV file into Dataframes in R
+33.	Export CSV File without Row Names in R
+34.	How to write to CSV in R without index?
+35.	Append row to CSV using R
+36.	How to calculate the mean of a CSV file in R?
+37.	How to import an Excel File into R?
+38.	How to export a DataFrame to Excel File in R?
+39.	Convert an Excel column into a list of vectors in R
+40.	How to convert an Excel column to a vector in R?
+41.	How to convert Excel content into DataFrame in R?
+42.	Delete rows with empty cells from Excel using R

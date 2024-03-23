@@ -310,12 +310,77 @@ example_data_frame <- example_data_frame[-1]
 
 print(example_data_frame)
 
-# Q34: R Program to Reorder Columns in a Dataframe
+# Q36: R Program to Merge Multiple Dataframes
 
-example_data_frame <- data.frame(x1 = example_list, x2 = example_list_2)
+example_data_frame_1 <- data.frame(x1 = c(1,2,3,4),
+                                   x2 = c(5,6,7,8),
+                                   x3 = c(9,10,11,12))
+example_data_frame_2 <- data.frame(x1 = c("a", "b", "c", "d"),
+                                   x2 = c("e", "f", "g", "h"),
+                                   x3 = c("i", "j", "k", "l"))
+
+merged_data_frame <- data.frame(example_data_frame_1, example_data_frame_2)
+
+print(merged_data_frame)
+
+# Q37: R Program to Delete Rows From Dataframe
+
+example_data_frame <- data.frame(x1 = c(1,2,3,4),
+                                   x2 = c(5,6,7,8),
+                                   x3 = c(9,10,11,12))
+
+example_data_frame_editted <- example_data_frame[-3,]
+print(example_data_frame_editted)
+
+# Q38: R Program to Make a List of Dataframes
+
+example_data_frame_1 <- data.frame(x1 = c(1,2,3,4),
+                                   x2 = c(5,6,7,8),
+                                   x3 = c(9,10,11,12))
+
+example_data_frame_2 <- data.frame(x1 = c("a", "b", "c", "d"),
+                                   x2 = c("e", "f", "g", "h"),
+                                   x3 = c("i", "j", "k", "l"))
+
+data_frame_list <- c(example_data_frame_1, example_data_frame_2)
+
+print(data_frame_list)
+
+# Q39: How to create a data frame from given vectors in R?
+
+example_vector_1 <- c(1,2,3,4)
+example_vector_2 <- c(5,6,7,8)
+example_vector_3 <- c(9,10,11,12)
+
+data_frame_list <- data.frame(example_vector_1, example_vector_2, example_vector_3)
+
+print(data_frame_list)
+
+# Q40: Create an empty DataFrame with only column names in R
+
+empty_data_frame <- data.frame("Column 1" = c(),
+                               "Column 2" = c(),
+                               "Column 3" = c())
+
+print(empty_data_frame)
+
+# Q41: Insert multiple rows in R DataFrame
+
+example_data_frame <- data.frame(x1 = c(1,2,3,4),
+                                 x2 = c(5,6,7,8),
+                                 x3 = c(9,10,11,12))
 
 print(example_data_frame)
 
-example_data_frame <- example_data_frame[]
+# Q42: How to add a column to the data frame in R?
 
-print(example_data_frame)
+example_data_frame <- data.frame(x1 = c(1,2,3,4),
+                                 x2 = c(5,6,7,8),
+                                 x3 = c(9,10,11,12))
+                                 
+new_col <- new_col <- c("a", "b", "c")
+
+new_data_frame <- cbind(example_data_frame, new_col)
+
+print(new_data_frame)
+
