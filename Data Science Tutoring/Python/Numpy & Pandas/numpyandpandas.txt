@@ -1,0 +1,37 @@
+1.	How to create an empty and a full NumPy array?
+2.	Create a Numpy array filled with all zeros
+3.	Create a Numpy array filled with all ones
+4.	Check whether a Numpy array contains a specified row
+5.	How to Remove rows in Numpy array that contains non-numeric values?
+6.	Combining a one and a two-dimensional NumPy Array
+7.	How to compare two NumPy arrays?
+8.	How to get all 2D diagonals of a 3D NumPy array?
+9.	Flatten a Matrix in Python using NumPy
+10.	Counts the number of non-zero values in the array
+11.	Trim the leading and/or trailing zeros from a 1-D array
+12.	Reverse a numpy array
+13.	Replace NumPy array elements that doesn’t satisfy the given condition
+14.	Return the indices of elements where the given condition is satisfied
+15.	Replace negative value with zero in numpy array
+16.	Replace NaN values with average of columns
+17.	How to get values of an NumPy array at certain index positions?
+18.	Find indices of elements equal to zero in a NumPy array
+19.	How to access different rows of a multidimensional NumPy array?
+20.	How to Remove columns in Numpy array that contains non-numeric values?
+21.	Get row numbers of NumPy array having element larger than X
+22.	Check elements present in the NumPy array
+23.	Combined array index by index
+24.	Make a Pandas DataFrame with two-dimensional list | Python
+25.	Python | Creating DataFrame from dict of narray/lists
+26.	Creating Pandas dataframe using list of lists
+27.	Creating a Pandas dataframe using list of tuples
+28.	Create a Pandas DataFrame from List of Dicts
+29.	Python | Convert list of nested dictionary into Pandas dataframe
+30.	Creating a dataframe from Pandas series
+31.	Construct a DataFrame in Pandas using string data
+32.	Clean the string data in the given Pandas Dataframe
+33.	Replace values in Pandas dataframe using regex
+34.	Reindexing in Pandas DataFrame
+35.	Mapping external values to dataframe values in Pandas
+36.	Reset Index in Pandas Dataframe
+37.	Python | Change column names and row indexes in Pandas DataFrame
